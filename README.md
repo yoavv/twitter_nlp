@@ -162,11 +162,7 @@ This is a precision recall curve which shows this trade-off for different thresh
 
 <p>
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/Detecting-Cryptocurrency4.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/auc.png" width="" alt="alt_text" title="image_tooltip">
 
 </p>
 <p>
@@ -198,22 +194,11 @@ Clustering process:
 <p>
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency5.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img src="images/cluster1.jpg" width=400 >
 
+<img src="images/cluster2.png" width=400>
 
-<img src="images/Detecting-Cryptocurrency5.jpg" width="" alt="alt_text" title="image_tooltip">
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency6.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/Detecting-Cryptocurrency6.png" width="" alt="alt_text" title="image_tooltip">
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency7.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/Detecting-Cryptocurrency7.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/cluster3.jpg" width=400>
 
 </p>
 <p>
