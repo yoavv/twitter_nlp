@@ -90,12 +90,9 @@ We divided the different speech acts [2] into 2 groups:
 <li>Non assertions: speech acts such as questions, recommendation, expressions and requests.</li></ol>
 
 <p>
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 <img src="images/assertion.png" width=400>
+ </p>
+ <p>
 Figure 2: An assertion tweet (left) vs. a non assertion tweet (right)
 </p>
 <p>
