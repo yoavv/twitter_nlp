@@ -149,7 +149,7 @@ With the naive prediction threshold (0.5), the accuracy is ~ 72.6%, which is far
 <p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency3.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/Detecting-Cryptocurrency3.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/confusion.jpg" width=500>
 
 </p>
 <p>
