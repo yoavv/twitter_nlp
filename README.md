@@ -1,49 +1,6 @@
-# twitter_nlp
-Detecting Cryptocurrency Rumors Using Twitter
-<!----- Conversion time: 4.689 seconds.
+# Detecting Cryptocurrency Rumors Using Twitter
 
 
-Using this HTML file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β14
-* Wed Jan 23 2019 04:32:37 GMT-0800 (PST)
-* Source doc: https://docs.google.com/open?id=1fhEPOXbry0Y_yLrip1kOOBIXyPcTz3NLdfM2zzmD7vs
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server.
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 12.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-<p>
-<strong><span style="text-decoration:underline;">Detecting Cryptocurrency Rumors Using Twitter</span></strong>
-</p>
-<p>
-<strong><span style="text-decoration:underline;">Abstract</span></strong>
-</p>
 <p>
 I developed a system for detecting cryptocurrency rumors using twitter. The system is based on text classification and clustering. Using machine learning techniques with the support of cryptocurrency experts I was able to achieve a high precision rate with limited amounts of labeled data, combining simple models with qualitative analysis. The system can be easily converted to other subjects of interest with minor model adjustments.
 </p>
