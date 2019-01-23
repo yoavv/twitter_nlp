@@ -194,11 +194,11 @@ Clustering process:
 <p>
 
 
-<img src="images/cluster1.jpg" width=400 >
+<img src="images/cluster1.jpg" width=500 >
 
-<img src="images/cluster2.png" width=400>
+<img src="images/cluster2.png" width=500>
 
-<img src="images/cluster3.jpg" width=400>
+<img src="images/cluster3.jpg" width=500>
 
 </p>
 <p>
@@ -207,10 +207,7 @@ Figure 6: The clustering process
 <p>
 
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency8.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/Detecting-Cryptocurrency8.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/cluster4.jpg" width=500>
 
 </p>
 <p>
@@ -232,27 +229,6 @@ The tweets than moves on to the analysts' portal and in case it creates a new ru
 <p>
 
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency9.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/Detecting-Cryptocurrency9.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-Figure 8: Screenshot of the analysts' portal for monitoring the system. Each column is a different coin and each box is a rumor.
-</p>
-<p>
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency10.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/Detecting-Cryptocurrency10.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-Figure 9: Screenshot of the Slack messages sent to the customer
-</p>
 <p>
 <strong><span style="text-decoration:underline;">Results analysis</span></strong>
 </p>
@@ -261,11 +237,7 @@ A cryptocurrency expert reviewed 2432 historical tweets which were clustered int
 </p>
 <p>
 
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency11.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/Detecting-Cryptocurrency11.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/results.png" width=500>
 
 </p>
 <p>
