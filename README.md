@@ -20,9 +20,6 @@ In order to capture the market moving talks a system that <strong>listens,detect
 <strong><span style="text-decoration:underline;">The system</span></strong>
 </p>
 <p>
-The system architecture is described in figure 1.<strong><span style="text-decoration:underline;"> </span></strong>
-</p>
-<p>
 
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
