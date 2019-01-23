@@ -90,7 +90,7 @@ We divided the different speech acts [2] into 2 groups:
 <li>Non assertions: speech acts such as questions, recommendation, expressions and requests.</li></ol>
 
 <p>
-<img src="images/assertion.png" width=400>
+<img src="images/assertion.png" width=600>
  </p>
  <p>
 Figure 2: An assertion tweet (left) vs. a non assertion tweet (right)
@@ -134,11 +134,7 @@ In order to separate the assertions for the rest of the speech acts we used seve
 </p>
 <p>
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/Detecting-Cryptocurrency2.png" width="" alt="alt_text" title="image_tooltip">
+<img src="images/assertion_accuracy.png" width=500>
 
 </p>
 <p>
