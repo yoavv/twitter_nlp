@@ -19,19 +19,10 @@ In order to capture the market moving talks a system that <strong>listens,detect
 <p>
 <strong><span style="text-decoration:underline;">The system</span></strong>
 </p>
-<p>
+
+<img src="images/system.png" width=400 >
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Detecting-Cryptocurrency0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/Detecting-Cryptocurrency0.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-
-            Figure 1: System flowchart
-</p><ol>
 
 <li><strong><span style="text-decoration:underline;">Listener </span></strong></li></ol>
 
